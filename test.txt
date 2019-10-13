@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 8A03-6567
+
+ Directory of C:\Users\TEMP\Desktop\MyProject
+
+10/13/2019  08:02 AM    <DIR>          .
+10/13/2019  08:02 AM    <DIR>          ..
+10/13/2019  08:02 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  1,873,896,841,216 bytes free
